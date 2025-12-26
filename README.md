@@ -127,7 +127,8 @@ Active contributor to the local tech ecosystem through workshops, events, and kn
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parthbhatti21&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=parthbhatti21&show_icons=true&theme=tokyonight&v=1" />
+
 </p>
 
 <p align="center">
