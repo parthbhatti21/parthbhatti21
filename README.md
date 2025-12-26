@@ -10,7 +10,7 @@
 ## 🧠 About Me
 
 - 🔭 Building **AI-powered web & automation solutions**
-- 🌱 Exploring **FastAPI, Docker, AWS, DevOps**
+- 🌱 WOrking with **FastAPI, Docker, AWS, DevOps**
 - 🧪 Love experimenting with **AI + creative ideas**
 - ⚡ Turning concepts into **real, working products**
 
@@ -25,7 +25,7 @@
 
 ### 🧩 Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,react,nodejs" />
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,react,nodejs,php" />
 </p>
 
 ### ⚙️ DevOps & Tools
@@ -35,7 +35,7 @@
 
 ### 🗄 Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase,firebase" />
 </p>
 
 ---
@@ -127,11 +127,11 @@ Active contributor to the local tech ecosystem through workshops, events, and kn
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ParthBhatti&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=parthbhatti21&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParthBhatti&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthbhatti21&theme=tokyonight" />
 </p>
 
 ---
@@ -139,13 +139,13 @@ Active contributor to the local tech ecosystem through workshops, events, and kn
 ## 📫 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/parth-bhatti21">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://github.com/ParthBhatti">
+  <a href="https://github.com/parthbhatti21">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:parthbhatti021@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
