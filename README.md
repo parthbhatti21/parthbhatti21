@@ -15,6 +15,9 @@
 - ⚡ Turning concepts into **real, working products**
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%26+Automation+Enthusiast;Hackathon+Winner;Building+Ideas+Into+Reality" />
+</p>
 
 ## 🛠 Tech Stack (Icons Only)
 
@@ -125,11 +128,6 @@ Active contributor to the local tech ecosystem through workshops, events, and kn
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parthbhatti21&show_icons=true&theme=tokyonight&v=1" />
-
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthbhatti21&theme=tokyonight" />
