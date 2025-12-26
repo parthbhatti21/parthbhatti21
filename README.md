@@ -15,9 +15,7 @@
 - ⚡ Turning concepts into **real, working products**
 
 ---
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%26+Automation+Enthusiast;Hackathon+Winner;Building+Ideas+Into+Reality" />
-</p>
+
 
 ## 🛠 Tech Stack (Icons Only)
 
@@ -134,7 +132,9 @@ Active contributor to the local tech ecosystem through workshops, events, and kn
 </p>
 
 ---
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=C0C0C0&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%26+Automation+Enthusiast;Hackathon+Winner;Building+Ideas+Into+Reality" />
+</p>
 ## 📫 Connect With Me
 
 <p>
