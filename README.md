@@ -20,17 +20,17 @@
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,c,c+,java" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,c,cpp,java,html,css" />
 </p>
 
 ### 🧩 Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,react,nodejs,php" />
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,react,nodejs,php,nextjs,npm" />
 </p>
 
 ### ⚙️ DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,nginx,aws,linux,git" />
+  <img src="https://skillicons.dev/icons?i=docker,nginx,aws,linux,git,gcp,stackoverflow" />
 </p>
 
 ### 🗄 Databases
