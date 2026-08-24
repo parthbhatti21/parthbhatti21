@@ -7,4 +7,3 @@ Backend • Web2 • Web3 • AI • DevOps
 
 ![Contribution to Grass](https://raw.githubusercontent.com/parthbhatti21/parthbhatti21/refs/heads/output/output.png)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=parthbhatti21&theme=shadow-green)](https://git.io/streak-stats)
